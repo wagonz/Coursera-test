@@ -1,4 +1,4 @@
 # Coursera-test
 Coursera test repository 
-theme: minima
+remote_theme: MERLOT
 
